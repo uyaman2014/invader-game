@@ -135,7 +135,7 @@ void Reset()
             BuReloadSpeed = 2000;
             BoReloadSpeed = 8000;
             break;
-         case 12885165:
+         case 201830:
             EnemySpeed = 300;
             EBulletSpeed = 1000000000;
             BuReloadSpeed = 0;
